@@ -1,6 +1,3 @@
-// INFO2180 Lab 3 - Tic Tac Toe
-// Author: <Your Name>
-// Date: October 2025
 
 window.addEventListener("DOMContentLoaded", function() {
 
